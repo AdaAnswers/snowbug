@@ -1,4 +1,6 @@
-# Snowbug
+# [Deprecated] Snowbug
+
+**_The current version of this solution has been migrated to the [solution](https://github.com/Ada-Activities/snowbug/tree/solution) branch in [Ada-Activities](https://github.com/Ada-Activities/snowbug)_**
 
 ## Goal
 
